@@ -1,12 +1,14 @@
 {
   "login":[
     {
+        "id":"1",
         "email":"laxya@gmail.com",
         "password":"123"
     }
   ],
   "register":[
-    {
+    { 
+      "id":"1",
       "email":"laxya@gmail.com",
       "username":"laxya",
       "password":"123",
@@ -15,6 +17,7 @@
   ],
   "products":[
    {
+    "id":"1",
   "img" : "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/-473Wx593H-464918983-blue-MODEL.jpg",
   "brand" : "EYEBOGLER",
   "price" : "400",
@@ -24,6 +27,7 @@
   "discount" : "50"
   },
    {
+    "id":"2",
     "img" : "https://assets.ajio.com/medias/sys_master/root/20221117/2r8w/6375d715aeb269659c97f84a/-473Wx593H-462152986-green-MODEL.jpg",
     "brand" : "DENNISLINGO PREMIUM ATTIRE",
     "price" : "700",
@@ -33,6 +37,7 @@
     "discount" : "30"
     },
     {
+        "id":"3",
      "img" : "https://assets.ajio.com/medias/sys_master/root/20220426/4fnM/62670e50f997dd03e281471c/-473Wx593H-464233494-grey-MODEL.jpg",
         "brand" : "GLITO",
         "price" : "1100",
@@ -43,5 +48,6 @@
     }
   ],
   "orders" : [],
-  "userDetails" : []
+  "userDetails" : [],
+  "dummy":[]
 }
