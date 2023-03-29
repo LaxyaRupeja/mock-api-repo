@@ -15,38 +15,329 @@
       "phone":"123456789"
     }
   ],
-  "products":[
-   {
-    "id":"1",
-  "img" : "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/-473Wx593H-464918983-blue-MODEL.jpg",
-  "brand" : "EYEBOGLER",
-  "price" : "400",
-  "gender" : "Male",
-  "catergory" : "T-shirt",
-  "title" : "Colour-Blocked Polo T-shirt",
-  "discount" : "50"
+  "products":[  {
+    "id": "1",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/-473Wx593H-464918983-blue-MODEL.jpg",
+    "brand": "EYEBOGLER",
+    "price": "400",
+    "gender": "Male",
+    "category": "T-shirt",
+    "title": "Colour-Blocked Polo T-shirt",
+    "discount": "50"
   },
+  {
+    "id": "2",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221117/2r8w/6375d715aeb269659c97f84a/-473Wx593H-462152986-green-MODEL.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "price": "700",
+    "gender": "Male",
+    "category": "Shirt",
+    "title": "Striped Slim Fit Shirt",
+    "discount": "30"
+  },
+  {
+    "id": "3",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220426/4fnM/62670e50f997dd03e281471c/-473Wx593H-464233494-grey-MODEL.jpg",
+    "brand": "GLITO",
+    "price": "1100",
+    "gender": "Male",
+    "category": "Jogger",
+    "title": "Jogger Pant with Drawstring Waist",
+    "discount": "10"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230321/Qm2h/64193f9aaeb26924e3de150e/-473Wx593H-465729828-black-MODEL.jpg",
+    "brand": "FIDATO",
+    "price": "3400",
+    "gender": "Male",
+    "category": "T-shirt",
+    "title": "Full Sleve T-shirt",
+    "discount": "10",
+    "id": "P0KgyXF"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230113/lHqs/63c0f068f997dd708e050a09/-473Wx593H-465509166-black-MODEL4.jpg",
+    "brand": "PRAKHYA",
+    "price": "300",
+    "gender": "Female",
+    "category": "Kurta",
+    "title": "Floral Print Straight Kurta Set",
+    "discount": "32",
+    "id": "oTZipDZ"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230322/T3Lq/641ae70b907deb497aa47615/-473Wx593H-465791742-teal-MODEL.jpg",
+    "brand": "SIRIL",
+    "price": "5300",
+    "gender": "Female",
+    "category": "Saree",
+    "title": "Embellished Polyester Saree",
+    "discount": "22",
+    "id": "grRvNL2"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221104/dnrr/636526a1aeb269659c72c6bb/-473Wx593H-465138366-white-MODEL.jpg",
+    "brand": "TIOR",
+    "price": "600",
+    "gender": "Female",
+    "category": "Top",
+    "title": "Checked Printing Top",
+    "discount": "22",
+    "id": "FaWxWCv"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230103/wpvo/63b35366f997ddfdbd0b993f/-473Wx593H-465410816-burgundy-MODEL.jpg",
+    "brand": "TIOR",
+    "price": "6000",
+    "gender": "Female",
+    "category": "Dress",
+    "title": "V-Neck Fit & Flare Dress",
+    "discount": "56",
+    "id": "OZ2ndYh"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220824/G1h6/63051e14f997dd394c162cb7/-473Wx593H-463813499-navy-MODEL.jpg",
+    "brand": "DILLINGER",
+    "price": "1200",
+    "gender": "Female",
+    "category": "T-shirt",
+    "title": "Typographic Print Crew-Neck Oversized T-shirt",
+    "discount": "63",
+    "id": "qokRwAh"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221203/CqZ9/638a6d46aeb269659cccd91f/-473Wx593H-465383372-white-MODEL.jpg",
+    "brand": "JACK & JONES",
+    "price": "500",
+    "gender": "Male",
+    "category": "Shirt",
+    "title": "Full-Sleeve Spread-Collar Shirt",
+    "discount": "10",
+    "id": "hicHZuJ"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220513/OWCN/627e26ddaeb26921af770461/-473Wx593H-463292672-purple-MODEL.jpg",
+    "brand": "THE BEAR HOUSE",
+    "price": "2500",
+    "gender": "Male",
+    "category": "Shirt",
+    "title": "Textured Slim Fit Shirt with Patch Pocket",
+    "discount": "10",
+    "id": "100"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221203/CqZ9/638a6d46aeb269659cccd91f/-473Wx593H-465383372-white-MODEL.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "price": "800",
+    "gender": "Male",
+    "category": "Shirt",
+    "title": "Full Sleeves Slim Fit Shirt",
+    "discount": "10",
+    "id": "101"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220817/jsDZ/62fc20afaeb26917617a2c45/-473Wx593H-463528547-red-MODEL.jpg",
+    "brand": "WOMEN TOUCH",
+    "price": "3000",
+    "gender": "Female",
+    "category": "Kurta",
+    "title": "Indian A-line Dress",
+    "discount": "10",
+    "id": "102"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230322/x9ly/641aa700711cf97ba7d9e6d3/-473Wx593H-465768477-pink-MODEL.jpg",
+    "brand": "FASHION BOOMS",
+    "price": "1000",
+    "gender": "Female",
+    "category": "Saree",
+    "title": "Banarasi Silk Traditional Saree",
+    "discount": "10",
+    "id": "103"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230322/x9ly/641aa700711cf97ba7d9e6d3/-473Wx593H-465768477-pink-MODEL.jpg",
+    "brand": "LEWEL",
+    "price": "1900",
+    "gender": "Male",
+    "category": "Hoodie",
+    "title": "Checked Slim Fit Hooded Shirt",
+    "discount": "10",
+    "id": "104"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220121/XNDG/61ea64b3aeb2695cdd24fb24/-473Wx593H-461125151-black-MODEL.jpg",
+    "brand": "LEWEL",
+    "price": "1980",
+    "gender": "Male",
+    "category": "Shirt",
+    "title": "Shirt with Curved Hemline",
+    "discount": "10",
+    "id": "105"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20211207/f9UM/61af7b91aeb2690110fc3528/-473Wx593H-462758443-multi-MODEL.jpg",
+    "brand": "POLO",
+    "price": "5100",
+    "gender": "Male",
+    "category": "T-shirt",
+    "title": "Pack of 3 Polo",
+    "discount": "11",
+    "id": "106"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220916/yNh3/63241651f997dd1f8d040e48/-473Wx593H-461766734-maroon-MODEL.jpg",
+    "brand": "TRENDS TOWER",
+    "price": "2100",
+    "gender": "Male",
+    "category": "T-shirt",
+    "title": "Pack of 2",
+    "discount": "11",
+    "id": "106"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230221/ZtGk/63f4da23f997dde6f4b81c7e/-473Wx593H-465647923-black-MODEL.jpg",
+    "brand": "TRENDS TOWER",
+    "price": "210",
+    "gender": "Male",
+    "category": "Hoodie",
+    "title": "Typographic Print Slim Fit Hooded T-Shirt",
+    "discount": "11",
+    "id": "107"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230221/ZtGk/63f4da23f997dde6f4b81c7e/-473Wx593H-465647923-black-MODEL.jpg",
+    "brand": "TRENDS TOWER",
+    "price": "2101",
+    "gender": "Male",
+    "category": "T-shirt",
+    "title": "Full Sleeves Crew-Neck T-Shirt",
+    "discount": "11",
+    "id": "108"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230221/IvHD/63f4e128f997dde6f4b847cc/-473Wx593H-465562446-black-MODEL.jpg",
+    "brand": "JUMO CUTS",
+    "price": "2130",
+    "gender": "Male",
+    "category": "Hoodie",
+    "title": "Typographic Print Crew-Neck Sweatshirt",
+    "discount": "15",
+    "id": "109"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220322/ieZT/6238e20daeb26921afe9941d/-473Wx593H-464049893-black-MODEL.jpg",
+    "brand": "JUMO CUTS",
+    "price": "1300",
+    "gender": "Female",
+    "category": "Kurta",
+    "title": "Embroidered Flared Kurta Set",
+    "discount": "15",
+    "id": "110"
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230302/8THa/64008c08f997dde6f4d87ebf/-473Wx593H-441001504-greymelange-MODEL5.jpg",
+    "brand": "GULMOHAR JAIPUR",
+    "price": "1380",
+    "gender": "Female",
+    "category": "Kurta",
+    "title": "Floral Print A-line Kurta Set",
+    "discount": "15",
+    "id": "drJOwX"
+  },
+  {
+       "id": "11",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20220120/QB8m/61e98306aeb2695cdd225dcf/performax_aqua_tennis_polo_t-shirt_with_step_hemline.jpg",
+       "brand": "PERFORMAX",
+       "price": "400",
+       "gender": "male",
+       "category": "tshirt",
+       "title": "Tennis Polo T-shirt with Step Hemline",
+       "discount": "30"
+   },
    {
-    "id":"2",
-    "img" : "https://assets.ajio.com/medias/sys_master/root/20221117/2r8w/6375d715aeb269659c97f84a/-473Wx593H-462152986-green-MODEL.jpg",
-    "brand" : "DENNISLINGO PREMIUM ATTIRE",
-    "price" : "700",
-    "gender" : "Male",
-    "catergory" : "Shirt",
-    "title" : "Striped Slim Fit Shirt",
-    "discount" : "30"
+      "id": "21",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20210211/9EVN/60242efb7cdb8c1f143c6f5a/levis_black_washed_slim_fit_jeans.jpg",
+       "brand": "LEVIS",
+       "price": "195",
+       "gender": "male",
+       "category": "pants",
+       "title": "Washed Slim Fit Jeans",
+       "discount": "20"
+      
+   },
+   {
+      "id": "31",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20211013/uqO3/616622b1f997ddf8f1cd31ca/dillinger_green_colourblock_crew-_neck_t-shirt.jpg",
+       "brand": "DILLINGER",
+       "price": "500",
+       "gender": "male",
+       "category": "tshirt",
+       "title": "Colourblock Crew- Neck T-shirt",
+       "discount": "10"
+       
+   },
+   {
+       "id": "41" ,
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210211/zrcZ/602430dcaeb2696981627f8e/levis_blue_washed_slim_fit_jeans.jpg",
+       "brand": "LEVIS",
+       "price": "195",
+       "gender": "male",
+       "category": "pants",
+       "title": "Washed Slim Fit Jeans",
+       "discount": "20"
     },
-    {
-        "id":"3",
-     "img" : "https://assets.ajio.com/medias/sys_master/root/20220426/4fnM/62670e50f997dd03e281471c/-473Wx593H-464233494-grey-MODEL.jpg",
-        "brand" : "GLITO",
-        "price" : "1100",
-        "gender" : "Male",
-        "catergory" : "Jogger",
-        "title" : "Jogger Pant with Drawstring Waist",
-        "discount" : "10"
-    }
-  ],
+   {
+       "id": "51",
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210428/GzcU/60897db5aeb269a9e3a5d00f/dnmx_white_%26_blue_checked_cotton_shirt_with_patch_pocket.jpg",
+       "brand": "DNMX",
+       "price": "827",
+       "gender": "male",
+       "category": "shirt",
+       "title": "Checked Cotton Shirt with Patch Pocket",
+       "discount": "10"
+   },
+   {
+       "id": "61",
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210211/0zdQ/602432587cdb8c1f143c7965/levis_blue_slim_fit_jeans.jpg",
+       "brand": "LEVIS",
+       "price": "195",
+       "gender": "male",
+       "category": "pants",
+       "title": "Slim Fit Jeans",
+       "discount": "20"
+   },
+   {
+       "id": "71",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20210601/zMl7/60b54388f997ddb312af67ba/netplay_navy_blue_checked_shirt_with_patch_pocket.jpg",
+       "brand": "NETPLAY",
+       "price": "699",
+       "gender": "male",
+       "category": "shirt",
+       "title": "Checked Shirt with Patch Pocket",
+       "discount": "30"
+   },
+   {
+       "id": "791",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20220215/4giW/620aa42ef997dd03e2cf2efc/nike_black_trackpants_with_drawstring_waist.jpg",
+       "brand": "NIKE",
+       "price": "300",
+       "gender": "male",
+       "category": "pants",
+       "title": "Trackpants with Drawstring Waist",
+       "discount": "10"
+   },
+   {
+       "id": "91",
+       "img":"https://assets.ajio.com/medias/sys_master/root/20211217/j6N2/61bb8ca9f997ddf8f154a84c/ivoc_olive_camouflage_print_slim_fit_jogger_pants.jpg",
+       "brand": "IVOC",
+       "price": "630",
+       "gender": "male",
+       "category": "pants",
+       "title": "Camouflage Print Slim Fit Jogger Pants",
+       "discount": "40"
+   }
+],
   "orders" : [],
   "userDetails" : [],
   "dummy":[]
