@@ -338,7 +338,57 @@
        "discount": "40"
    }
 ],
-  "orders" : [],
-  "userDetails" : [],
+  "orders" : [
+       {
+       "id": "41" ,
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210211/zrcZ/602430dcaeb2696981627f8e/levis_blue_washed_slim_fit_jeans.jpg",
+       "brand": "LEVIS",
+       "price": 195,
+       "gender": "male",
+       "category": "pants",
+       "title": "Washed Slim Fit Jeans",
+       "discount": "20"
+    },
+   {
+       "id": "51",
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210428/GzcU/60897db5aeb269a9e3a5d00f/dnmx_white_%26_blue_checked_cotton_shirt_with_patch_pocket.jpg",
+       "brand": "DNMX",
+       "price": 827,
+       "gender": "male",
+       "category": "shirt",
+       "title": "Checked Cotton Shirt with Patch Pocket",
+       "discount": "10"
+   },
+   {
+       "id": "61",
+       "img": "https://assets.ajio.com/medias/sys_master/root/20210211/0zdQ/602432587cdb8c1f143c7965/levis_blue_slim_fit_jeans.jpg",
+       "brand": "LEVIS",
+       "price": 195,
+       "gender": "male",
+       "category": "pants",
+       "title": "Slim Fit Jeans",
+       "discount": "20"
+   }
+  ],
+  "userDetails" : [
+    {
+      "name" : "Aniket",
+      "mobile" : "999999",
+      "pincode" : 324009,
+      "address" : "H-no 24,Suwalka",
+      "landmark" : "chruch gate",
+      "city" : "Mumbai",
+      "state" : "Maharastra" 
+    },
+      {
+      "name" : "Laxya",
+      "mobile" : "999999",
+      "pincode" : 324009,
+      "address" : "H-no 22,Pukhraj",
+      "landmark" : "MJ Hospital",
+      "city" : "Kota",
+      "state" : "Rajasthan" 
+    }
+  ],
   "dummy":[]
 }
